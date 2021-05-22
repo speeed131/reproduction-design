@@ -1,0 +1,80 @@
+/* utilities */
+.underline {
+    text-decoration: underline;
+}
+
+
+h1 {
+    margin: 0;
+}
+
+.header {
+    background-color: aqua;
+    display: flex;
+    padding: 20px 32px;
+    align-items: center;
+    height: 80px;
+}
+
+.header img {
+    width: 100px;
+}
+
+.notification {
+    background-color: #1264a3;
+    display: flex;
+}
+
+.notification_text {
+    flex: 10;
+    color: #fff;
+    background-color: brown;
+}
+.notification_button {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.hero {
+    background-color: #f6efe8;
+    padding: 16px 32px;
+}
+
+.hero_button {
+    display: block;
+    padding: 16px 4px;
+    width: 100%;
+    background-color: #611f69;
+}
+
+.hero_img {
+    height: 100px;
+    width: 100%;
+}
+
+.feature {
+ background-color: chartreuse;
+}
+
+.case {
+    background-color: blue;
+}
+
+.demo {
+    background-color: darkcyan;
+    
+}
+
+.apeeal {
+    background-color:forestgreen
+    
+}
+
+.contact {
+    background-color: gray;
+}
+
+.footer {
+    background-color: indigo;
+}
